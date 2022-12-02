@@ -5,7 +5,7 @@ def index (request):
     return HttpResponse ('<h4>Проверка работы</h4>')
 
 def about (request):
-    return HttpResponse ('<h4>Информация о нас</h4>')
+    return HttpResponse ('<h4>Информацас</h4>')
 
 
    
